@@ -1,4 +1,5 @@
 # About Me
 
-<a href='https://ming.circumcode.com/'>Web side</a>
-alsk1369854
+<a target='_blank' href='https://ming.circumcode.com/'>Web side</a>
+
+### Email: alsk1369854@gmail.com
